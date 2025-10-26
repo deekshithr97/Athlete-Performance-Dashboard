@@ -1,0 +1,5 @@
+{
+  "name": "Athlete Performance Dashboard",
+  "description": "A modern, responsive dashboard for athletes to track their performance, race results, and manage their equipment. Features a clean UI with both light and dark modes.",
+  "requestFramePermissions": []
+}
